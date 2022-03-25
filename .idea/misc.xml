@@ -3,7 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/weron/AndroidStudioProjects/DrawIt/app/src/main/res/layout/activity_main.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/weron/AndroidStudioProjects/DrawIt/app/src/main/res/drawable/bg_drawing_view_layout.xml" value="0.1" />
+        <entry key="..\:/Users/weron/AndroidStudioProjects/DrawIt/app/src/main/res/drawable/black_color.xml" value="0.1695" />
+        <entry key="..\:/Users/weron/AndroidStudioProjects/DrawIt/app/src/main/res/drawable/color_palette.xml" value="0.1" />
+        <entry key="..\:/Users/weron/AndroidStudioProjects/DrawIt/app/src/main/res/drawable/dark_blue_color.xml" value="0.1695" />
+        <entry key="..\:/Users/weron/AndroidStudioProjects/DrawIt/app/src/main/res/drawable/dark_green_color.xml" value="0.1695" />
+        <entry key="..\:/Users/weron/AndroidStudioProjects/DrawIt/app/src/main/res/drawable/dialog_bg.xml" value="0.187" />
+        <entry key="..\:/Users/weron/AndroidStudioProjects/DrawIt/app/src/main/res/drawable/extra_large.xml" value="0.182" />
+        <entry key="..\:/Users/weron/AndroidStudioProjects/DrawIt/app/src/main/res/drawable/large.xml" value="0.1" />
+        <entry key="..\:/Users/weron/AndroidStudioProjects/DrawIt/app/src/main/res/drawable/light_blue_color.xml" value="0.1695" />
+        <entry key="..\:/Users/weron/AndroidStudioProjects/DrawIt/app/src/main/res/drawable/light_green_color.xml" value="0.1695" />
+        <entry key="..\:/Users/weron/AndroidStudioProjects/DrawIt/app/src/main/res/drawable/medium.xml" value="0.1" />
+        <entry key="..\:/Users/weron/AndroidStudioProjects/DrawIt/app/src/main/res/drawable/orange_color.xml" value="0.1695" />
+        <entry key="..\:/Users/weron/AndroidStudioProjects/DrawIt/app/src/main/res/drawable/pink_color.xml" value="0.1695" />
+        <entry key="..\:/Users/weron/AndroidStudioProjects/DrawIt/app/src/main/res/drawable/red_color.xml" value="0.1695" />
+        <entry key="..\:/Users/weron/AndroidStudioProjects/DrawIt/app/src/main/res/drawable/small.xml" value="0.1" />
+        <entry key="..\:/Users/weron/AndroidStudioProjects/DrawIt/app/src/main/res/drawable/split_line.xml" value="0.182" />
+        <entry key="..\:/Users/weron/AndroidStudioProjects/DrawIt/app/src/main/res/drawable/yellow_color.xml" value="0.1" />
+        <entry key="..\:/Users/weron/AndroidStudioProjects/DrawIt/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/weron/AndroidStudioProjects/DrawIt/app/src/main/res/layout/brush_size_dialog.xml" value="0.1" />
       </map>
     </option>
   </component>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="300dp"
+    android:layout_height="200dp"
+    android:background="@drawable/dialog_bg"
+    android:gravity="center"
+    android:layout_gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/ib_small_brush"
+            style="@style/brush_size_button"
+            android:background="@null"
+            android:src="@drawable/small" />
+
+        <ImageButton
+            android:id="@+id/ib_medium_brush"
+            style="@style/brush_size_button"
+            android:background="@null"
+            android:src="@drawable/medium" />
+
+        <ImageButton
+            android:id="@+id/ib_large_brush"
+            style="@style/brush_size_button"
+            android:background="@null"
+            android:src="@drawable/large" />
+
+        <ImageButton
+            android:id="@+id/ib_extra_large_brush"
+            style="@style/brush_size_button"
+            android:background="@null"
+            android:src="@drawable/extra_large" />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/paints_row_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/color_black"
+            android:tag="@color/black"
+            style="@style/color_button"
+            android:background="@null"
+            android:src="@drawable/black_color" />
+
+        <ImageButton
+            android:id="@+id/color_skin"
+            android:tag="@color/skin"
+            style="@style/color_button"
+            android:background="@null"
+            android:src="@drawable/skin_color" />
+
+        <ImageButton
+            android:id="@+id/color_yellow"
+            android:tag="@color/yellow"
+            style="@style/color_button"
+            android:background="@null"
+            android:src="@drawable/yellow_color" />
+
+        <ImageButton
+            android:id="@+id/color_orange"
+            android:tag="@color/orange"
+            style="@style/color_button"
+            android:background="@null"
+            android:src="@drawable/orange_color" />
+
+        <ImageButton
+            android:id="@+id/color_red"
+            android:tag="@color/red"
+            style="@style/color_button"
+            android:background="@null"
+            android:src="@drawable/red_color" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/paints_row_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/color_green"
+            android:tag="@color/light_green"
+            style="@style/color_button"
+            android:background="@null"
+            android:src="@drawable/light_green_color" />
+
+        <ImageButton
+            android:id="@+id/color_dark_green"
+            android:tag="@color/dark_green"
+            style="@style/color_button"
+            android:background="@null"
+            android:src="@drawable/dark_green_color" />
+
+        <ImageButton
+            android:id="@+id/color_blue"
+            android:tag="@color/light_blue"
+            style="@style/color_button"
+            android:background="@null"
+            android:src="@drawable/light_blue_color" />
+
+        <ImageButton
+            android:id="@+id/color_dark_blue"
+            android:tag="@color/dark_blue"
+            style="@style/color_button"
+            android:background="@null"
+            android:src="@drawable/dark_blue_color" />
+
+        <ImageButton
+            style="@style/color_button"
+            android:background="@null"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_random_color" />
+
+    </LinearLayout>
+
+</LinearLayout>
