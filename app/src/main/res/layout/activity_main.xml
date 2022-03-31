@@ -23,7 +23,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:scaleType="centerCrop"
-            android:src="@drawable/cat_image" />
+            tools:src="@drawable/cat_image" />
 
         <com.gmail.weronikapios7.drawit.DrawingView
             android:id="@+id/drawing_view"
